@@ -2,7 +2,7 @@
 
 Tiny Dashboard for mutual fund SIP CAGR and analysis
 
-<img alt="Mutual Fund portfolio" src="https://raw.githubusercontent.com/BaseMax/MiniCalculatorInterpreter/master/demo.jpg" width="300">
+<img alt="Mutual Fund portfolio" src="https://github.com/Tenkodamane/mf-cagr-calculator/blob/main/out/MF_Performance.png" width="300">
 
 ## Features
 
