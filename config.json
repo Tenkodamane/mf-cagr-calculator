@@ -1,0 +1,9 @@
+{
+  "column_headings": {
+    "invested_date": "invested_date",
+    "price": "value",
+    "qty": "unit",
+    "age": "days",
+    "profit": "profit"
+  }
+}
