@@ -14,10 +14,7 @@ Tiny Dashboard for mutual fund SIP CAGR and analysis
 ### Download
 
 ```
-git clone https://github.com/BaseMax/MiniCalculatorInterpreter
-cd MiniCalculatorInterpreter
-sudo pip3 install ply
-python calculator.py
+git clone https://github.com/Tenkodamane/mf-cagr-calculator
 ```
 
 
